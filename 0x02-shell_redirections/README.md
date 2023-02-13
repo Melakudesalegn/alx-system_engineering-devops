@@ -1,1 +1,1 @@
-describing what each script is doing
+the standard output
